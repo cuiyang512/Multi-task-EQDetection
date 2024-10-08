@@ -1,0 +1,2 @@
+# Multi-task_Neural_Network_for_Earthquake_Classification_and_Phase_Picking
+Earthquake Signal Detection Using a Multi-Scale Feature Fusion Network with Hybrid Attention Mechanism
