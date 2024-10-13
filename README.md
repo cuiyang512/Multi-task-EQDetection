@@ -1,6 +1,8 @@
 # Multi-task_Neural_Network_for_Earthquake_Classification_and_Phase_Picking
 Earthquake Signal Detection Using a Multi-Scale Feature Fusion Network with Hybrid Attention Mechanism
 
+## The test data
+Regarding the labels of testing and and testing set. Please refer to the following link: https://drive.google.com/drive/folders/1swZXzO71owRDCR9urhVchGwqrP3ecT1n?usp=drive_link
 ## list of the recent updated files:
 1- "P_error_proposed_1.5w.npy" -> The error of P-wave samples predicted by the proposed method
 
