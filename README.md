@@ -27,3 +27,5 @@ Regarding the labels of testing and and testing set. Please refer to the followi
 11- "X_test_results_EQCCT_P_retrain" -> The output of P-wave arrival picking using "test_trainer_EQCCT_P_retrain.h5". The test data are 15,000 samples randomly selected from the TXED using different random seed with the training data
 
 12- "X_test_results_EQCCT_S_retrain" -> The output of S-wave arrival picking using "test_trainer_EQCCT_S_retrain.h5". The test data are 15,000 samples randomly selected from the TXED using different random seed with the training data
+
+13- "signalid_random_1.5w.npy" -> The index of signal waveforms in the randomly selected testing data 
