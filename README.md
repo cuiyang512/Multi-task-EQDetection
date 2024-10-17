@@ -2,7 +2,7 @@
 Earthquake Signal Detection Using a Multi-Scale Feature Fusion Network with Hybrid Attention Mechanism
 
 ## The test data
-Regarding the labels of testing and and testing set. Please refer to the following link: [https://drive.google.com/drive/folders/1swZXzO71owRDCR9urhVchGwqrP3ecT1n?usp=drive_link](https://drive.google.com/drive/folders/1swZXzO71owRDCR9urhVchGwqrP3ecT1n?usp=sharing)
+Regarding the Texas Earthquake Dataset (TXED). Please refer to the following link: [[https://drive.google.com/drive/folders/1swZXzO71owRDCR9urhVchGwqrP3ecT1n?usp=drive_link](https://drive.google.com/drive/folders/1swZXzO71owRDCR9urhVchGwqrP3ecT1n?usp=sharing)](https://drive.google.com/drive/folders/1WXVB8ytNB4bOaZ97oq6OmMRyAEg95trp?usp=sharing)
 
 ## list of the recent updated files:
 1- "P_error_proposed_1.5w.npy" -> The error of P-wave samples predicted by the proposed method
