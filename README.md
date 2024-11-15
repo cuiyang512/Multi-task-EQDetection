@@ -4,6 +4,8 @@ Earthquake Signal Detection Using a Multi-Scale Feature Fusion Network with Hybr
 ## The testing data
 Due to the limitation of Github, please refer to the following link to download the testing data:  https://drive.google.com/drive/folders/14kaFvHdMTJc2XL7Wl498F17UmfaidEfx?usp=drive_link
 
+After downloading the testing data and TXED, please put them into the "data" folder
+
 ## TXED data
 In this package, we used an excellent open-source earthquake data for AI -- TXED, please refer to the following link for more details: https://github.com/chenyk1990/txed 
 
