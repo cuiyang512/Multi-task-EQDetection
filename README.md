@@ -15,6 +15,7 @@ Addtionally, please use the following link to download the TXED: https://drive.g
     Cui Y., Bai M., Wu J., and Chen Y., “Earthquake Signal Detection Using a Multi-Scale Feature Fusion Network with Hybrid Attention Mechanism,” in revision.
 
 BibTex
+
     @Article{EQdetection,
       author={Yang Cui and Min Bai and Juan Wu and Yangkang Chen},
       title = {Earthquake Signal Detection Using a Multi-Scale Feature Fusion Network with Hybrid Attention Mechanism},
