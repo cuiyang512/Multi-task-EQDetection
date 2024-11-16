@@ -32,6 +32,7 @@ BibTex
 
 ## Install 
 For set up the environment and install the dependency packages, please run the following script:
+    
     conda create -n mEQd python=3.11.7
     conda activate mEQd
     conda install ipython notebook
