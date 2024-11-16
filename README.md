@@ -1,6 +1,8 @@
 # Multi-task_EQ_Detection
 Earthquake Signal Detection Using a Multi-Scale Feature Fusion Network with Hybrid Attention Mechanism
 
+![Network architecture](figs/Network.png)
+
 ## The testing data
 Due to the limitation of Github, please refer to the following link to download the testing data:  https://drive.google.com/drive/folders/14kaFvHdMTJc2XL7Wl498F17UmfaidEfx?usp=drive_link
 
