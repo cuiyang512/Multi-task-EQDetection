@@ -37,3 +37,9 @@ For set up the environment and install the dependency packages, please run the f
     conda activate mEQd
     conda install ipython notebook
     pip install tensorflow==2.15.0, keras==2.15.0, h5py==3.10.0, scikit-learn==1.4.0, seaborn==0.13.2, matplotlib==3.8.4, scipy==1.11.4
+
+## Contact
+
+    Regarding any questions, bugs, developments, collaborations, please contact  
+    Yang Cui
+    yang.cui512@gmail.com
