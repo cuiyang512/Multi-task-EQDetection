@@ -38,6 +38,19 @@ For set up the environment and install the dependency packages, please run the f
     conda install ipython notebook
     pip install tensorflow==2.15.0, keras==2.15.0, h5py==3.10.0, scikit-learn==1.4.0, seaborn==0.13.2, matplotlib==3.8.4, scipy==1.11.4
 
+If you want to run with GPUs, please run the following script to install the dependency package:
+
+    conda create -n mEQd python=3.11.7
+    conda activate mEQd
+    conda install ipython notebook
+    pip install tensorflow==2.15.0, keras==2.15.0, h5py==3.10.0, scikit-learn==1.4.0, seaborn==0.13.2, matplotlib==3.8.4, scipy==1.11.4
+    conda install -c anaconda cudnn==8.2.1
+
+## Development
+
+    The development team welcomes voluntary contributions from any open-source enthusiast. 
+    If you want to make contribution to this project, feel free to contact the development team. 
+    
 ## Contact
 
     Regarding any questions, bugs, developments, collaborations, please contact  
