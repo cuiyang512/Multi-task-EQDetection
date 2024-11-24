@@ -1,4 +1,4 @@
-# Multi-task_EQ_Detection
+# Multi-task-EQDetection
 Earthquake Signal Detection Using a Multi-Scale Feature Fusion Network with Hybrid Attention Mechanism
 
 ![Network architecture](figs/Network.png)
