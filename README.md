@@ -16,20 +16,17 @@ In this package, we used an excellent open-source earthquake data for AI -- TXED
 Addtionally, please use the following link to download the TXED: https://drive.google.com/drive/folders/1WXVB8ytNB4bOaZ97oq6OmMRyAEg95trp?usp=sharing
 
 ## Reference
-    Cui Y., Bai M., Wu J., and Chen Y., “Earthquake Signal Detection Using a Multi-Scale Feature Fusion Network with Hybrid Attention Mechanism,” in revision.
+    Cui, Y., M. Bai, J. Wu, and Y. Chen. "Earthquake signal detection using a multi-scale feature fusion network with hybrid attention mechanism." Geophysical Journal International (2024): ggae423.
 
 BibTex
 
     @Article{EQdetection,
-      author={Yang Cui and Min Bai and Juan Wu and Yangkang Chen},
-      title = {Earthquake Signal Detection Using a Multi-Scale Feature Fusion Network with Hybrid Attention Mechanism},
-      journal={TBD},
-      year=2024,
-      volume={TBD},
-      issue={TBD},
-      number={TBD},
-      pages={TBD},
-      doi={TBD},
+      title={Earthquake signal detection using a multi-scale feature fusion network with hybrid attention mechanism},
+      author={Cui, Y and Bai, M and Wu, J and Chen, Y},
+      journal={Geophysical Journal International},
+      pages={ggae423},
+      year={2024},
+      publisher={Oxford University Press}
     }
 
 ## Install 
