@@ -1,6 +1,24 @@
-# Multi-task-EQDetection
-### Earthquake Signal Detection Using a Multi-Scale Feature Fusion Network with Hybrid Attention Mechanism
+## [Earthquake Signal Detection Using a Multi-Scale Feature Fusion Network with Hybrid Attention Mechanism](https://academic.oup.com/gji/article/240/2/988/7912583)
+<div align="center">
+  <a href="https://github.com/cuiyang512" target="_blank">Yang Cui<sup>1</sup></a> &emsp;
+  <a href="https://dqwl.yangtzeu.edu.cn/info/1171/5558.htm" target="_blank">Min Bai<sup>1 ,†</sup></a> &emsp;
+  <a href="https://dqwl.yangtzeu.edu.cn/info/1169/5559.htm" target="_blank">Juan Wu<sup>1</sup></a> &emsp;
+  <a href="https://github.com/chenyk1990" target="_blank">Yangkang Chen<sup>2</sup></a>
+</div>
+<div align="center">
+  <sup>1</sup>College of Geophsyics and Petroleum Resources, Yangtze University<br>
+  <sup>2</sup>The University of Texas at Austin 
+</div>
 
+<div align="center">
+  <img src="https://img.shields.io/github/stars/cuiyang512/Multi-task-EQDetection" alt="GitHub Stars" />
+  <img src="https://img.shields.io/github/forks/cuiyang512/Multi-task-EQDetection" alt="GitHub Forks" />
+  <img src="https://img.shields.io/github/repo-size/cuiyang512/Multi-task-EQDetection" alt="Repo Size" />
+  <img src="https://img.shields.io/github/last-commit/cuiyang512/Multi-task-EQDetection" alt="Last Commit" />
+  <img src="https://img.shields.io/badge/language-Jupyter%20Notebook-%233572A5" alt="Language" />
+</div>
+
+## Overview
 Signal and noise classification can add an extra level of constraint for earthquake phase picking by pinpointing the signal waveforms from continuous seismic data for more accurate arrival picking. However, the continuously increasing data collected by worldwide stations exceeds the ability of manual analysis. Moreover, manual earthquake data analysis depends on seismologists' expert knowledge, resulting in inconsistent analysis results. To address this, we proposed a generalized deep learning (DL) network architecture to discriminate earthquake signal and noise waveforms. The proposed DL framework is a novel architecture comprising a feature extractor, a classifier, and two hybrid attention modules. It utilizes different kernel sizes for more detailed feature extraction, and the hybrid attention mechanism module can guide the network to focus more on the waveform characteristics. To illustrate the power of the proposed DL network, we applied it to classify the earthquake signal and noise of the 3-C Texas Earthquake Dataset (TXED). The results demonstrate that the accuracy of the proposed method in the testing set reaches 99.83\%. We further utilize the transfer learning strategy to demonstrate the transferability of the proposed network with the Stanford earthquake dataset, showing an encouraging classification accuracy of 95.03\%. Additionally, we conducted an additional experiment on arrival picking by integrating decoder blocks into the classification network, which achieves remarkable P- and S-wave arrival picking accuracy.
 
 ![Network architecture](figs/Network.png)
